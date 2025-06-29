@@ -3,7 +3,7 @@ package com.gmail.zernetcsgo.hw1;
 public class Converter {
     private static final double CONV_K = 2.20462;
 
-    public static void main(String[] args) {   // ← мала літера m
+    public static void main(String[] args) {
         System.out.println("Version 1.0");
 
         double kgs = 5;

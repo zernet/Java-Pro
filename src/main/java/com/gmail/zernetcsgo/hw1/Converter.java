@@ -4,7 +4,7 @@ public class Converter {
     private static final double CONV_K = 2.20462;
 
     public static void main(String[] args) {   // ← мала літера m
-        System.out.println("Converter App.");
+        System.out.println("Version 1.0");
 
         double kgs = 5;
         double pnds = 12;

@@ -9,8 +9,6 @@ public class Main {
 
         myThread1.start();
         myThread2.start();
-
-        // необов’язково, але корисно дочекатися завершення потоків
         myThread1.join();
         myThread2.join();
     }
